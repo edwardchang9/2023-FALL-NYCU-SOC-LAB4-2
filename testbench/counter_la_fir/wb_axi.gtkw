@@ -1,0 +1,79 @@
+[*]
+[*] GTKWave Analyzer v3.3.61 (w)1999-2014 BSI
+[*] Fri Nov  3 16:24:19 2023
+[*]
+[dumpfile] "/home/soc/caravel-soc_fpga-lab/lab-caravel_fir_wb_axi/testbench/counter_la_fir/test_wb_axi.vcd"
+[dumpfile_mtime] "Fri Nov  3 16:23:15 2023"
+[dumpfile_size] 411658937
+[savefile] "/home/soc/caravel-soc_fpga-lab/lab-caravel_fir_wb_axi/testbench/counter_la_fir/wb_axi.gtkw"
+[timestart] 6267005000
+[size] 1000 1084
+[pos] -1 -1
+*-19.000000 6267962500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] counter_la_fir_tb.
+[treeopen] counter_la_fir_tb.uut.
+[treeopen] counter_la_fir_tb.uut.mprj.
+[sst_width] 229
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 313
+@22
+counter_la_fir_tb.mprj_io[37:0]
+counter_la_fir_tb.checkbits[15:0]
+@c00200
+-user_wb
+@28
+counter_la_fir_tb.uut.mprj.wb_clk_i
+counter_la_fir_tb.uut.mprj.wb_rst_i
+counter_la_fir_tb.uut.mprj.wbs_ack_o
+@22
+counter_la_fir_tb.uut.mprj.wbs_adr_i[31:0]
+@28
+counter_la_fir_tb.uut.mprj.wbs_cyc_i
+@22
+counter_la_fir_tb.uut.mprj.wbs_dat_i[31:0]
+counter_la_fir_tb.uut.mprj.wbs_dat_o[31:0]
+counter_la_fir_tb.uut.mprj.wbs_sel_i[3:0]
+@28
+counter_la_fir_tb.uut.mprj.wbs_stb_i
+counter_la_fir_tb.uut.mprj.wbs_we_i
+@1401200
+-user_wb
+@800201
+-axi_wb
+@29
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wbs_ack_o
+@23
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wbs_adr_i[31:0]
+@29
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wbs_cyc_i
+@23
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wbs_dat_i[31:0]
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wbs_dat_o[31:0]
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wbs_sel_i[3:0]
+@29
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wbs_stb_i
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wbs_we_i
+@1000201
+-axi_wb
+@800200
+-axi_w
+@22
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.awaddr[11:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.awvalid
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.awready
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.axi_w_done
+@22
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wdata[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wready
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.wvalid
+@1000200
+-axi_w
+@28
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.enable
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.is_lite
+counter_la_fir_tb.uut.mprj.mprj_axi_converter.ready
+[pattern_trace] 1
+[pattern_trace] 0
