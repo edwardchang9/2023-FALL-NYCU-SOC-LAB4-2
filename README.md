@@ -1,4 +1,6 @@
 # 2023-FALL-NYCU-SOC-LAB4-2
+## Introduction
+Lab4 of NYCU SOC Design Course
 
 ## Toolchain Prerequisites
 * [Ubuntu 20.04+](https://releases.ubuntu.com/focal/)
